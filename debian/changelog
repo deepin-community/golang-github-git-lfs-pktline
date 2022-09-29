@@ -1,0 +1,11 @@
+golang-github-git-lfs-pktline (0.0~git20210330.06e9096-2) unstable; urgency=medium
+
+  * Reupload as source-only
+
+ -- Stephen Gelman <ssgelm@debian.org>  Fri, 05 Nov 2021 23:32:42 -0500
+
+golang-github-git-lfs-pktline (0.0~git20210330.06e9096-1) unstable; urgency=medium
+
+  * Initial release (Closes: #996548)
+
+ -- Stephen Gelman <ssgelm@debian.org>  Fri, 15 Oct 2021 02:48:02 -0500
